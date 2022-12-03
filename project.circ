@@ -166,5 +166,17 @@ end TCL_Generic;
     <a name="clabel" val=""/>
     <a name="clabelfont" val="SansSerif bold 16"/>
     <a name="clabelup" val="east"/>
+    <comp lib="8" loc="(156,110)" name="Text">
+      <a name="font" val="SansSerif plain 12"/>
+      <a name="text" val="Deigo Castillo"/>
+    </comp>
+    <comp lib="8" loc="(161,79)" name="Text">
+      <a name="font" val="SansSerif plain 12"/>
+      <a name="text" val="Team: Rizz Overflow"/>
+    </comp>
+    <comp lib="8" loc="(162,148)" name="Text">
+      <a name="font" val="SansSerif plain 12"/>
+      <a name="text" val="Sergio Najm"/>
+    </comp>
   </circuit>
 </project>
